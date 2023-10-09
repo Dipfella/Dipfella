@@ -46,14 +46,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Dipfella/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipfella&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipfella&langs_count=6&theme=minimal&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/Dipfella/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipfella&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipfella&theme=minimal&layout=compact&hide_border=true"
           alt="Dipfella :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipfella&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipfella&theme=minimal&layout=compact&hide_border=true"
           alt="Dipfella :: Top Langs by commit" />
           </a>
         </p>
@@ -62,8 +62,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/Dipfella/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dipfella&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipfella&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dipfella&show_icons=true&theme=minimal&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipfella&theme=minimal&hide_border=true" />
           </a>
        </p>
      <br>
