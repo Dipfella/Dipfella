@@ -46,14 +46,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Dipfella/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipfella&langs_count=6&theme=minimal&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipfella&langs_count=6l&layout=compact&hide_border=true"
           alt="Dipfella :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/Dipfella/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipfella&theme=minimal&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipfella&layout=compact&hide_border=true"
           alt="Dipfella :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipfella&theme=minimal&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipfella&layout=compact&hide_border=true"
           alt="Dipfella :: Top Langs by commit" />
           </a>
         </p>
