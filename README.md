@@ -77,7 +77,7 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Dipfella&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
@@ -86,4 +86,3 @@
 
 -----
 Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
