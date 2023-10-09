@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋 I'm Julian</h1>
-<h4 align="center">I am a full-stack developer, if you want to know more about my experience, ¡Check out my <a href="https://www.linkedin.com/in/julian-sarmiento-38a1551b5/" target="_blank">resume</a> for more information!.</h4>
+<p align="center">I am a full-stack developer, if you want to know more about my experience, ¡Check out my <a href="https://www.linkedin.com/in/julian-sarmiento-38a1551b5/" target="_blank">resume</a> for more information!.</p>
 </div>
 
 <div align="center">
