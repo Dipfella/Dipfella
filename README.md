@@ -47,7 +47,7 @@
             <p align="center">
         <a href="https://github.com/Dipfella/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipfella&langs_count=6&theme=minimal&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+          alt="Dipfella :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/Dipfella/">
